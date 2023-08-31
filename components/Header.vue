@@ -32,7 +32,7 @@
             <li>
               <a
                 href="javascript:;"
-                onclick="javascript:window.open('/makeshop/newmanager/makeshop_ipaccess.pop.html', 'ipaccess', 'width=760, height=600, menubar=0, resizable=0, toolbar=0, status=0, scrollbars=yes, location=no, menubar=0');return false;"
+                onclick="javascript:window.open('https://premium264.makeshop.co.kr/newmanager/makeshop_ipaccess.pop.html', 'ipaccess', 'width=760, height=600, menubar=0, resizable=0, toolbar=0, status=0, scrollbars=yes, location=no, menubar=0');return false;"
                 ><strong class="fRed">이벤트 모니터링 요청</strong></a
               >
             </li>
@@ -82,7 +82,7 @@
           <li class="mobileapp">
             <a target="main" class="" href="powerapp_about.html" onclick="javascript:set_cti_layer_location('mobileapp')"
               ><span class="txt">모바일앱</span
-              ><img src="/makeshop/newmanager/neoimages/icon/slide_push_n.png" class="app-reject-badge" style="display: none"
+              ><img src="https://premium264.makeshop.co.kr/newmanager/neoimages/icon/slide_push_n.png" class="app-reject-badge" style="display: none"
             /></a>
           </li>
           <li class="s-promotion">
@@ -241,7 +241,7 @@
 }
 
 #gnb .gnb-top-con .gnb-inner-con .gnb-top-menu ul li.line {
-  background: url("/makeshop/newmanager/neoimages/new_category/bul_h11_line.jpg") no-repeat 0 45%;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/bul_h11_line.jpg") no-repeat 0 45%;
 }
 
 #gnb .gnb-top-con .gnb-inner-con .gnb-top-menu ul li.search {
@@ -259,7 +259,7 @@
   width: 6px;
   height: 11px;
   margin-left: 5px;
-  background: url("/makeshop/newmanager/neoimages/new_category/bul_h3_arr.jpg") no-repeat left 45%;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/bul_h3_arr.jpg") no-repeat left 45%;
   vertical-align: middle;
 }
 
@@ -347,7 +347,7 @@
   width: 30px;
   height: 23px;
   border: none;
-  background: url("/makeshop/newmanager/neoimages/new_category/btn_h23_search.jpg") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/btn_h23_search.jpg") no-repeat 0 0;
 }
 
 #gnb .gnb-bot-con .gnb {

@@ -2,10 +2,10 @@
   <div>
     <td width="190" height="100%" id="bodyleft" valign="top" style="width: 190px">
       <div id="banner" style="width: 188px; visibility: visible; display: block">
-        <link rel="stylesheet" href="/makeshop/newmanager/css/new_left_menu.css?ver=20230830113516" />
+        <link rel="stylesheet" href="https://premium264.makeshop.co.kr/newmanager/css/new_left_menu.css?ver=20230830113516" />
         <div id="aside" style="height: 1393px; padding-bottom: 0px">
           <div class="aside-tit">
-            <img src="/makeshop/newmanager/neoimages/common/common_left_ico_M0005.gif" alt="" />
+            <img src="https://premium264.makeshop.co.kr/newmanager/neoimages/common/common_left_ico_M0005.gif" alt="" />
             <h2>회원관리</h2>
             <a href="javascript:manual_info('M0005');" class="btn-help">HELP</a>
           </div>
@@ -27,20 +27,23 @@
               <div id="M00050008_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050008_SUB_MENU_LIST_UL">
                   <li class="now">
-                    <a href="/makeshop/newmanager/member_user.html" onfocus="this.blur();" id="M000500080001"><em>·</em>회원/CRM 관리하기</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/member_user.html" onfocus="this.blur();" id="M000500080001"
+                      ><em>·</em>회원/CRM 관리하기</a
                     ><span class="ico-menu-quick" id="ico-M000500080001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/member_dormant.html" onfocus="this.blur();" id="M000500080003"><em>·</em>휴면고객 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/member_dormant.html" onfocus="this.blur();" id="M000500080003"
+                      ><em>·</em>휴면고객 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500080003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/member_lifetime.html" onfocus="this.blur();" id="M000500080004"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/member_lifetime.html" onfocus="this.blur();" id="M000500080004"
                       ><em>·</em>개인정보 유효기간 혜택 설정</a
                     ><span class="ico-menu-quick" id="ico-M000500080004" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/member_excel.html" onfocus="this.blur();" id="M000500080002"><em>·</em>회원 엑셀파일 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/member_excel.html" onfocus="this.blur();" id="M000500080002"
+                      ><em>·</em>회원 엑셀파일 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500080002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -52,35 +55,43 @@
               <div id="M00050010_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050010_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_makegroup.html" onfocus="this.blur();" id="M000500100001"><em>·</em>회원그룹 신규 생성/삭제</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_makegroup.html" onfocus="this.blur();" id="M000500100001"
+                      ><em>·</em>회원그룹 신규 생성/삭제</a
                     ><span class="ico-menu-quick" id="ico-M000500100001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_groupoption.html" onfocus="this.blur();" id="M000500100002"><em>·</em>회원그룹 부가기능</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_groupoption.html" onfocus="this.blur();" id="M000500100002"
+                      ><em>·</em>회원그룹 부가기능</a
                     ><span class="ico-menu-quick" id="ico-M000500100002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_ingroup.html" onfocus="this.blur();" id="M000500100003"><em>·</em>그룹별 회원등록 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_ingroup.html" onfocus="this.blur();" id="M000500100003"
+                      ><em>·</em>그룹별 회원등록 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500100003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_csvgroup.html" onfocus="this.blur();" id="M000500100004"><em>·</em>회원 CSV 일괄 그룹등록</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_csvgroup.html" onfocus="this.blur();" id="M000500100004"
+                      ><em>·</em>회원 CSV 일괄 그룹등록</a
                     ><span class="ico-menu-quick" id="ico-M000500100004" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_viewgroup.html" onfocus="this.blur();" id="M000500100005"><em>·</em>그룹별 전체회원 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_viewgroup.html" onfocus="this.blur();" id="M000500100005"
+                      ><em>·</em>그룹별 전체회원 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500100005" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_autogroup.html" onfocus="this.blur();" id="M000500100006"><em>·</em>그룹별 자동 등록 설정</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_autogroup.html" onfocus="this.blur();" id="M000500100006"
+                      ><em>·</em>그룹별 자동 등록 설정</a
                     ><span class="ico-menu-quick" id="ico-M000500100006" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_autogroup_log.html" onfocus="this.blur();" id="M000500100007"><em>·</em>자동 등록 회원 확인</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_autogroup_log.html" onfocus="this.blur();" id="M000500100007"
+                      ><em>·</em>자동 등록 회원 확인</a
                     ><span class="ico-menu-quick" id="ico-M000500100007" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_change_group_log.html" onfocus="this.blur();" id="M000500100008"><em>·</em>회원그룹 변경 내역</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_change_group_log.html" onfocus="this.blur();" id="M000500100008"
+                      ><em>·</em>회원그룹 변경 내역</a
                     ><span class="ico-menu-quick" id="ico-M000500100008" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -92,66 +103,81 @@
               <div id="M00050011_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050011_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_emoney.html" onfocus="this.blur();" id="M000500110011"><em>·</em>예치금 내역조회</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_emoney.html" onfocus="this.blur();" id="M000500110011"
+                      ><em>·</em>예치금 내역조회</a
                     ><span class="ico-menu-quick" id="ico-M000500110011" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_reserve.html" onfocus="this.blur();" id="M000500110014"><em>·</em>적립금 내역 조회</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_reserve.html" onfocus="this.blur();" id="M000500110014"
+                      ><em>·</em>적립금 내역 조회</a
                     ><span class="ico-menu-quick" id="ico-M000500110014" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_point.html" onfocus="this.blur();" id="M000500110017"><em>·</em>포인트 내역 조회</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_point.html" onfocus="this.blur();" id="M000500110017"
+                      ><em>·</em>포인트 내역 조회</a
                     ><span class="ico-menu-quick" id="ico-M000500110017" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_userexit.html" onfocus="this.blur();" id="M000500110010"><em>·</em>쇼핑몰 회원탈퇴 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_userexit.html" onfocus="this.blur();" id="M000500110010"
+                      ><em>·</em>쇼핑몰 회원탈퇴 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500110010" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_csv_reserve.html" onfocus="this.blur();" id="M000500110001"><em>·</em>적립금 CSV 일괄지급</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_csv_reserve.html" onfocus="this.blur();" id="M000500110001"
+                      ><em>·</em>적립금 CSV 일괄지급</a
                     ><span class="ico-menu-quick" id="ico-M000500110001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_csv_emoney.html" onfocus="this.blur();" id="M000500110012"><em>·</em>예치금 CSV 일괄지급</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_csv_emoney.html" onfocus="this.blur();" id="M000500110012"
+                      ><em>·</em>예치금 CSV 일괄지급</a
                     ><span class="ico-menu-quick" id="ico-M000500110012" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_csv_point.html" onfocus="this.blur();" id="M000500110002"><em>·</em>포인트 CSV 일괄지급</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_csv_point.html" onfocus="this.blur();" id="M000500110002"
+                      ><em>·</em>포인트 CSV 일괄지급</a
                     ><span class="ico-menu-quick" id="ico-M000500110002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_userreserve.html" onfocus="this.blur();" id="M000500110004"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_userreserve.html" onfocus="this.blur();" id="M000500110004"
                       ><em>·</em>적립금/쿠폰 수기 지급 조회</a
                     ><span class="ico-menu-quick" id="ico-M000500110004" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_confirm_reserve.html" onfocus="this.blur();" id="M000500110005"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_confirm_reserve.html" onfocus="this.blur();" id="M000500110005"
                       ><em>·</em>적립금 지급요청 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500110005" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_confirm_emoney.html" onfocus="this.blur();" id="M000500110013"><em>·</em>예치금 지급요청 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_confirm_emoney.html" onfocus="this.blur();" id="M000500110013"
+                      ><em>·</em>예치금 지급요청 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500110013" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_confirm_member.html" onfocus="this.blur();" id="M000500110016"><em>·</em>회원 일괄 인증 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_confirm_member.html" onfocus="this.blur();" id="M000500110016"
+                      ><em>·</em>회원 일괄 인증 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500110016" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_userbirth.html" onfocus="this.blur();" id="M000500110006"><em>·</em>생일/기념일 축하 이벤트</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_userbirth.html" onfocus="this.blur();" id="M000500110006"
+                      ><em>·</em>생일/기념일 축하 이벤트</a
                     ><span class="ico-menu-quick" id="ico-M000500110006" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/user_modify_event.html" onfocus="this.blur();" id="M000500110007"><em>·</em>회원정보 수정 이벤트</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/user_modify_event.html" onfocus="this.blur();" id="M000500110007"
+                      ><em>·</em>회원정보 수정 이벤트</a
                     ><span class="ico-menu-quick" id="ico-M000500110007" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/receive_rejection_excelprocess.html" onfocus="this.blur();" id="M000500110009"
+                    <a
+                      href="https://premium264.makeshop.co.kr/newmanager/receive_rejection_excelprocess.html"
+                      onfocus="this.blur();"
+                      id="M000500110009"
                       ><em>·</em>메일/SMS 엑셀 수신거부</a
                     ><span class="ico-menu-quick" id="ico-M000500110009" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/user_type_modify.html" onfocus="this.blur();" id="M000500110019"><em>·</em>회원형태일괄수정</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/user_type_modify.html" onfocus="this.blur();" id="M000500110019"
+                      ><em>·</em>회원형태일괄수정</a
                     ><span class="ico-menu-quick" id="ico-M000500110019" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -163,15 +189,18 @@
               <div id="M00050041_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050041_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/smart_reserve_setup.html" onfocus="this.blur();" id="M000500410001"><em>·</em>스마트 적립금 설정</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/smart_reserve_setup.html" onfocus="this.blur();" id="M000500410001"
+                      ><em>·</em>스마트 적립금 설정</a
                     ><span class="ico-menu-quick" id="ico-M000500410001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/smart_reserve_manager_list.html" onfocus="this.blur();" id="M000500410002"><em>·</em>적립금 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/smart_reserve_manager_list.html" onfocus="this.blur();" id="M000500410002"
+                      ><em>·</em>적립금 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500410002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/smart_reserve_provide.html" onfocus="this.blur();" id="M000500410003"><em>·</em>적립금 지급설정</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/smart_reserve_provide.html" onfocus="this.blur();" id="M000500410003"
+                      ><em>·</em>적립금 지급설정</a
                     ><span class="ico-menu-quick" id="ico-M000500410003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -183,12 +212,13 @@
               <div id="M00050012_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050012_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/member_usernote_about.html" onfocus="this.blur();" id="M000500120001"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/member_usernote_about.html" onfocus="this.blur();" id="M000500120001"
                       ><em>·</em>회원 쪽지 보내기 소개</a
                     ><span class="ico-menu-quick" id="ico-M000500120001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/member_usernote.html" onfocus="this.blur();" id="M000500120002"><em>·</em>회원 쪽지내역 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/member_usernote.html" onfocus="this.blur();" id="M000500120002"
+                      ><em>·</em>회원 쪽지내역 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500120002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -200,30 +230,35 @@
               <div id="M00050013_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050013_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_attendance_intro.html" onfocus="this.blur();" id="M000500130001"><em>·</em>출석체크 기능소개</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_attendance_intro.html" onfocus="this.blur();" id="M000500130001"
+                      ><em>·</em>출석체크 기능소개</a
                     ><span class="ico-menu-quick" id="ico-M000500130001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_attendance.html" onfocus="this.blur();" id="M000500130002"><em>·</em>출석체크 기능설정</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_attendance.html" onfocus="this.blur();" id="M000500130002"
+                      ><em>·</em>출석체크 기능설정</a
                     ><span class="ico-menu-quick" id="ico-M000500130002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_attendance_design.html" onfocus="this.blur();" id="M000500130003"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_attendance_design.html" onfocus="this.blur();" id="M000500130003"
                       ><em>·</em>출석체크 디자인 설정</a
                     ><span class="ico-menu-quick" id="ico-M000500130003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_attendance_list.html" onfocus="this.blur();" id="M000500130004"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_attendance_list.html" onfocus="this.blur();" id="M000500130004"
                       ><em>·</em>출석체크 리스트 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500130004" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_attendance_reservation.html" onfocus="this.blur();" id="M000500130005"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_attendance_reservation.html" onfocus="this.blur();" id="M000500130005"
                       ><em>·</em>출석체크 예약설정</a
                     ><span class="ico-menu-quick" id="ico-M000500130005" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_attendance_reservation_list.html" onfocus="this.blur();" id="M000500130006"
+                    <a
+                      href="https://premium264.makeshop.co.kr/newmanager/crm_attendance_reservation_list.html"
+                      onfocus="this.blur();"
+                      id="M000500130006"
                       ><em>·</em>출석체크 예약/마감 내역</a
                     ><span class="ico-menu-quick" id="ico-M000500130006" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
@@ -236,15 +271,18 @@
               <div id="M00050022_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050022_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_ctmintro.html" onfocus="this.blur();" id="M000500220001"><em>·</em>카트타겟 메시지(CTM) 소개</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_ctmintro.html" onfocus="this.blur();" id="M000500220001"
+                      ><em>·</em>카트타겟 메시지(CTM) 소개</a
                     ><span class="ico-menu-quick" id="ico-M000500220001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_ctsend.html" onfocus="this.blur();" id="M000500220002"><em>·</em>카트타겟 메시지(CTM) 발송</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_ctsend.html" onfocus="this.blur();" id="M000500220002"
+                      ><em>·</em>카트타겟 메시지(CTM) 발송</a
                     ><span class="ico-menu-quick" id="ico-M000500220002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_ctlist.html" onfocus="this.blur();" id="M000500220003"><em>·</em>카트타겟 메시지(CTM) 내역</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_ctlist.html" onfocus="this.blur();" id="M000500220003"
+                      ><em>·</em>카트타겟 메시지(CTM) 내역</a
                     ><span class="ico-menu-quick" id="ico-M000500220003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -256,55 +294,68 @@
               <div id="M00050014_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050014_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_smsintro.html" onfocus="this.blur();" id="M000500140017"><em>·</em>SMS 소개</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_smsintro.html" onfocus="this.blur();" id="M000500140017"
+                      ><em>·</em>SMS 소개</a
                     ><span class="ico-menu-quick" id="ico-M000500140017" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_smsmoney.html" onfocus="this.blur();" id="M000500140002"><em>·</em>SMS 충전</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_smsmoney.html" onfocus="this.blur();" id="M000500140002"
+                      ><em>·</em>SMS 충전</a
                     ><span class="ico-menu-quick" id="ico-M000500140002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_smsconfig.html" onfocus="this.blur();" id="M000500140001"><em>·</em>SMS 서비스 설정</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_smsconfig.html" onfocus="this.blur();" id="M000500140001"
+                      ><em>·</em>SMS 서비스 설정</a
                     ><span class="ico-menu-quick" id="ico-M000500140001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_smssend.html" onfocus="this.blur();" id="M000500140005"><em>·</em>SMS 보내기</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_smssend.html" onfocus="this.blur();" id="M000500140005"
+                      ><em>·</em>SMS 보내기</a
                     ><span class="ico-menu-quick" id="ico-M000500140005" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_smsmanage.html" onfocus="this.blur();" id="M000500140026"><em>·</em>SMS 발송 메시지 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_smsmanage.html" onfocus="this.blur();" id="M000500140026"
+                      ><em>·</em>SMS 발송 메시지 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500140026" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_smscount.html" onfocus="this.blur();" id="M000500140018"><em>·</em>SMS 발송내역 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_smscount.html" onfocus="this.blur();" id="M000500140018"
+                      ><em>·</em>SMS 발송내역 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500140018" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_smsdellist.html" onfocus="this.blur();" id="M000500140019"><em>·</em>SMS 예약내역 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_smsdellist.html" onfocus="this.blur();" id="M000500140019"
+                      ><em>·</em>SMS 예약내역 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500140019" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/order_sendsms.html" onfocus="this.blur();" id="M000500140020"><em>·</em>주문회원 일괄SMS 발송</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/order_sendsms.html" onfocus="this.blur();" id="M000500140020"
+                      ><em>·</em>주문회원 일괄SMS 발송</a
                     ><span class="ico-menu-quick" id="ico-M000500140020" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/order_adminsms.html" onfocus="this.blur();" id="M000500140021"><em>·</em>매출통계 SMS 발송</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/order_adminsms.html" onfocus="this.blur();" id="M000500140021"
+                      ><em>·</em>매출통계 SMS 발송</a
                     ><span class="ico-menu-quick" id="ico-M000500140021" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_smsaddress.html" onfocus="this.blur();" id="M000500140022"><em>·</em>SMS 주소록 간단관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_smsaddress.html" onfocus="this.blur();" id="M000500140022"
+                      ><em>·</em>SMS 주소록 간단관리</a
                     ><span class="ico-menu-quick" id="ico-M000500140022" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_usersms.html" onfocus="this.blur();" id="M000500140024"><em>·</em>회원전용 SMS 지급</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_usersms.html" onfocus="this.blur();" id="M000500140024"
+                      ><em>·</em>회원전용 SMS 지급</a
                     ><span class="ico-menu-quick" id="ico-M000500140024" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_usersmslist.html" onfocus="this.blur();" id="M000500140025"><em>·</em>회원전용 SMS 지급내역</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_usersmslist.html" onfocus="this.blur();" id="M000500140025"
+                      ><em>·</em>회원전용 SMS 지급내역</a
                     ><span class="ico-menu-quick" id="ico-M000500140025" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_sms_auth.html" onfocus="this.blur();" id="M000500140027"><em>·</em>SMS 정산</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_sms_auth.html" onfocus="this.blur();" id="M000500140027"
+                      ><em>·</em>SMS 정산</a
                     ><span class="ico-menu-quick" id="ico-M000500140027" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -316,25 +367,30 @@
               <div id="M00050027_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050027_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_kakao_alimtalk.html" onfocus="this.blur();" id="M000500270001"><em>·</em>알림톡 소개</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_kakao_alimtalk.html" onfocus="this.blur();" id="M000500270001"
+                      ><em>·</em>알림톡 소개</a
                     ><span class="ico-menu-quick" id="ico-M000500270001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_kakao_alimtalk_setting.html" onfocus="this.blur();" id="M000500270002"><em>·</em>알림톡 설정</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_kakao_alimtalk_setting.html" onfocus="this.blur();" id="M000500270002"
+                      ><em>·</em>알림톡 설정</a
                     ><span class="ico-menu-quick" id="ico-M000500270002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_kakao_alimtalk_template.html" onfocus="this.blur();" id="M000500270004"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_kakao_alimtalk_template.html" onfocus="this.blur();" id="M000500270004"
                       ><em>·</em>알림톡 템플릿 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500270004" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_kakao_alimtalk_templatelist.html" onfocus="this.blur();" id="M000500270005"
+                    <a
+                      href="https://premium264.makeshop.co.kr/newmanager/crm_kakao_alimtalk_templatelist.html"
+                      onfocus="this.blur();"
+                      id="M000500270005"
                       ><em>·</em>알림톡 템플릿 승인 내역</a
                     ><span class="ico-menu-quick" id="ico-M000500270005" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_kakao_alimtalk_list.html" onfocus="this.blur();" id="M000500270003"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_kakao_alimtalk_list.html" onfocus="this.blur();" id="M000500270003"
                       ><em>·</em>알림톡 발송내역 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500270003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
@@ -347,20 +403,26 @@
               <div id="M00050023_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050023_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/rm_intro.html" onfocus="this.blur();" id="M000500230001"><em>·</em>RM 소개</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/rm_intro.html" onfocus="this.blur();" id="M000500230001"
+                      ><em>·</em>RM 소개</a
                     ><span class="ico-menu-quick" id="ico-M000500230001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/rm_mms_send.html" onfocus="this.blur();" id="M000500230002"><em>·</em>RM 메시지 발송</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/rm_mms_send.html" onfocus="this.blur();" id="M000500230002"
+                      ><em>·</em>RM 메시지 발송</a
                     ><span class="ico-menu-quick" id="ico-M000500230002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_smscount.html?sms_page_type=rm_service" onfocus="this.blur();" id="M000500230003"
+                    <a
+                      href="https://premium264.makeshop.co.kr/newmanager/crm_smscount.html?sms_page_type=rm_service"
+                      onfocus="this.blur();"
+                      id="M000500230003"
                       ><em>·</em>RM 메시지 발송 내역</a
                     ><span class="ico-menu-quick" id="ico-M000500230003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/rm_stats.html" onfocus="this.blur();" id="M000500230006"><em>·</em>RM 통계</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/rm_stats.html" onfocus="this.blur();" id="M000500230006"
+                      ><em>·</em>RM 통계</a
                     ><span class="ico-menu-quick" id="ico-M000500230006" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -372,15 +434,18 @@
               <div id="M00050025_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050025_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_payrm_about.html" onfocus="this.blur();" id="M000500250001"><em>·</em>DRM 소개</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_payrm_about.html" onfocus="this.blur();" id="M000500250001"
+                      ><em>·</em>DRM 소개</a
                     ><span class="ico-menu-quick" id="ico-M000500250001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_payrm_setting.html" onfocus="this.blur();" id="M000500250002"><em>·</em>DRM 설정</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_payrm_setting.html" onfocus="this.blur();" id="M000500250002"
+                      ><em>·</em>DRM 설정</a
                     ><span class="ico-menu-quick" id="ico-M000500250002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_payrm_stats.html" onfocus="this.blur();" id="M000500250003"><em>·</em>DRM 통계</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_payrm_stats.html" onfocus="this.blur();" id="M000500250003"
+                      ><em>·</em>DRM 통계</a
                     ><span class="ico-menu-quick" id="ico-M000500250003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -392,19 +457,23 @@
               <div id="M00050015_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050015_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_ctiabout.html" onfocus="this.blur();" id="M000500150001"><em>·</em>통합콜센터 소개</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_ctiabout.html" onfocus="this.blur();" id="M000500150001"
+                      ><em>·</em>통합콜센터 소개</a
                     ><span class="ico-menu-quick" id="ico-M000500150001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_cticrm.html" onfocus="this.blur();" id="M000500150002"><em>·</em>일반전화용(KT CRM형)</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_cticrm.html" onfocus="this.blur();" id="M000500150002"
+                      ><em>·</em>일반전화용(KT CRM형)</a
                     ><span class="ico-menu-quick" id="ico-M000500150002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_cticti.html" onfocus="this.blur();" id="M000500150003"><em>·</em>인터넷전화용(LG CTI형)</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_cticti.html" onfocus="this.blur();" id="M000500150003"
+                      ><em>·</em>인터넷전화용(LG CTI형)</a
                     ><span class="ico-menu-quick" id="ico-M000500150003" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_ctijoin.html" onfocus="this.blur();" id="M000500150004"><em>·</em>통합콜센터 서비스 신청</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_ctijoin.html" onfocus="this.blur();" id="M000500150004"
+                      ><em>·</em>통합콜센터 서비스 신청</a
                     ><span class="ico-menu-quick" id="ico-M000500150004" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -416,7 +485,8 @@
               <div id="M00050018_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050018_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/lgu_keynumber.html" onfocus="this.blur();" id="M000500180001"><em>·</em>LGU+ 전국 대표번호</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/lgu_keynumber.html" onfocus="this.blur();" id="M000500180001"
+                      ><em>·</em>LGU+ 전국 대표번호</a
                     ><span class="ico-menu-quick" id="ico-M000500180001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -428,12 +498,13 @@
               <div id="M00050024_SUB_MENU_LIST" onclick="ASIDE_SUB_CLICK()">
                 <ul id="M00050024_SUB_MENU_LIST_UL">
                   <li>
-                    <a href="/makeshop/newmanager/crm_ars_rejectjoin.html" onfocus="this.blur();" id="M000500240001"
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_ars_rejectjoin.html" onfocus="this.blur();" id="M000500240001"
                       ><em>·</em>080 수신거부 신청/확인</a
                     ><span class="ico-menu-quick" id="ico-M000500240001" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                   <li>
-                    <a href="/makeshop/newmanager/crm_ars_rejectmanager.html" onfocus="this.blur();" id="M000500240002"><em>·</em>080 수신거부 관리</a
+                    <a href="https://premium264.makeshop.co.kr/newmanager/crm_ars_rejectmanager.html" onfocus="this.blur();" id="M000500240002"
+                      ><em>·</em>080 수신거부 관리</a
                     ><span class="ico-menu-quick" id="ico-M000500240002" onclick="ICO_LEFTMENU_QUICK('');"></span>
                   </li>
                 </ul>
@@ -503,7 +574,7 @@
                 </div>
               </fieldset>
             </form>
-            <form name="left_crm" action="/makeshop/newmanager/crmcenter.html" method="post" target="left_crm">
+            <form name="left_crm" action="https://premium264.makeshop.co.kr/newmanager/crmcenter.html" method="post" target="left_crm">
               <input type="hidden" name="id" />
             </form>
             <form name="_left_send" id="_left_send" method="post">
@@ -915,7 +986,7 @@ aside {
   width: 13px;
   height: 18px;
   font-weight: normal;
-  background: url("/makeshop/newmanager/neoimages/btn/btn_new_menulist_helper.png") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/btn/btn_new_menulist_helper.png") no-repeat 0 0;
   z-index: 50;
 }
 .lnb-menu .btn-helper .layer-helper-wrap {
@@ -936,7 +1007,7 @@ aside {
   left: -7px;
   width: 8px;
   height: 9px;
-  background: url("/makeshop/newmanager/neoimages/bg/bg_leftmenu_box_edge.gif") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/bg/bg_leftmenu_box_edge.gif") no-repeat 0 0;
 }
 .lnb-menu .btn-helper .layer-helper-wrap .layer-helper {
   position: relative;
@@ -971,10 +1042,10 @@ aside {
   right: 24px;
 }
 .lnb-menu .menu-hold.hold-off {
-  background: url("/makeshop/newmanager/neoimages/btn/new_menu_hold_off.gif") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/btn/new_menu_hold_off.gif") no-repeat 0 0;
 }
 .lnb-menu .menu-hold.hold-on {
-  background: url("/makeshop/newmanager/neoimages/btn/new_menu_hold_on.gif") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/btn/new_menu_hold_on.gif") no-repeat 0 0;
 }
 .lnb-menu .menu-hold a {
   display: block;
@@ -1282,7 +1353,7 @@ body {
   height: 100% !important;
 }
 #manager {
-  background: #fff url("/makeshop/newmanager/neoimages/common/bg_body_content.gif") repeat-y 0 0 !important; /* width:auto; */
+  background: #fff url("https://premium264.makeshop.co.kr/newmanager/neoimages/common/bg_body_content.gif") repeat-y 0 0 !important; /* width:auto; */
 }
 #manager:after {
   clear: both;
@@ -1311,10 +1382,10 @@ body {
 } /* 좌측 close - (구)페이지 */
 #leftlayer1 {
   top: 55px !important;
-} /* /makeshop/newmanager/neoimages/new_left_menu_open.gif = open 미사용 */
+} /* https://premium264.makeshop.co.kr/newmanager/neoimages/new_left_menu_open.gif = open 미사용 */
 #leftlayer2 {
   top: 55px !important;
-} /* /makeshop/newmanager/neoimages/new_left_menu_close.gif = close 미사용 */
+} /* https://premium264.makeshop.co.kr/newmanager/neoimages/new_left_menu_close.gif = close 미사용 */
 #right-quick {
   display: block;
 } /* 기존 우측 퀵메뉴 노출 */
@@ -1398,10 +1469,10 @@ body {
   right: -33px;
   width: 74px;
   height: 55px;
-  background: url("/makeshop/newmanager/neoimages/new_category/btn_h29_new_left_menu_close.gif") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/btn_h29_new_left_menu_close.gif") no-repeat 0 0;
 }
 #aside #btn-newleftmenu-close.on {
-  background: url("/makeshop/newmanager/neoimages/new_category/btn_h29_new_left_menu_close_over.gif") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/btn_h29_new_left_menu_close_over.gif") no-repeat 0 0;
 }
 #aside #btn-newleftmenu-open {
   z-index: 1;
@@ -1411,7 +1482,7 @@ body {
   left: 10px;
   width: 29px;
   height: 29px;
-  background: url("/makeshop/newmanager/neoimages/new_category/btn_h29_new_left_menu_open.gif") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/btn_h29_new_left_menu_open.gif") no-repeat 0 0;
 } /* 왼쪽메뉴 열기 */
 #aside.off {
   width: 0 !important;
@@ -1469,7 +1540,7 @@ body {
   display: block;
   font-size: 13px;
   color: #000;
-  background: url("/makeshop/newmanager/neoimages/common/common_left_plus.png") no-repeat right 14px;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/common/common_left_plus.png") no-repeat right 14px;
 }
 #aside .lnb .lnb-menu ul {
   display: none;
@@ -1490,7 +1561,7 @@ body {
   width: 12px;
   height: 12px;
   margin: -1px 0 0 3px;
-  background: url("/makeshop/newmanager/neoimages/common/common_left_new.png") no-repeat 0 0;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/common/common_left_new.png") no-repeat 0 0;
   vertical-align: middle;
 }
 #aside .lnb .lnb-menu.now {
@@ -1506,7 +1577,7 @@ body {
   line-height: 33px;
 }
 #aside .lnb .lnb-menu.now h3 a {
-  background: url("/makeshop/newmanager/neoimages/common/common_left_minus.png") no-repeat right 14px;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/common/common_left_minus.png") no-repeat right 14px;
 }
 #aside .lnb .lnb-menu.now ul {
   display: block;
@@ -1545,11 +1616,11 @@ body {
   display: inline-block;
   width: 36px;
   height: 26px;
-  background: url("/makeshop/newmanager/neoimages/common/common_left_quick.gif") no-repeat center 5px;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/common/common_left_quick.gif") no-repeat center 5px;
   cursor: pointer;
 }
 #aside .lnb .lnb-menu.now ul li.now .ico-menu-quick.on {
-  background: url("/makeshop/newmanager/neoimages/common/common_left_quick_on.gif") no-repeat center 5px;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/common/common_left_quick_on.gif") no-repeat center 5px;
 }
 
 #aside .quick-sch {
@@ -1694,7 +1765,7 @@ body {
 #right-quick .header-wrap h3 {
   width: 69px;
   height: 36px;
-  background: url(/makeshop/newmanager/neoimages/common/quick_small.gif) no-repeat 50% 50%;
+  background: url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/quick_small.gif) no-repeat 50% 50%;
   margin: 0;
 }
 #right-quick .header-wrap .toggle-btn {
@@ -1705,7 +1776,7 @@ body {
   display: block;
   width: 22px;
   height: 36px;
-  background: #5b87d9 url(/makeshop/newmanager/neoimages/common/toggle_off.gif) no-repeat 50% 50%;
+  background: #5b87d9 url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/toggle_off.gif) no-repeat 50% 50%;
 }
 #right-quick .header-wrap .preferences-btn {
   outline: none;
@@ -1715,7 +1786,7 @@ body {
   right: 0;
   width: 35px;
   height: 36px;
-  background: url(/makeshop/newmanager/neoimages/common/preferences.gif) no-repeat 50% 50%;
+  background: url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/preferences.gif) no-repeat 50% 50%;
 }
 #right-quick .tab-wrap {
   position: relative;
@@ -1733,16 +1804,16 @@ body {
   display: inilne-block;
 }
 #right-quick .tab-wrap .tabs .menu {
-  background: #a8a8a8 url(/makeshop/newmanager/neoimages/common/ico_menu_off.gif) no-repeat 50% 50%;
+  background: #a8a8a8 url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/ico_menu_off.gif) no-repeat 50% 50%;
 }
 #right-quick .tab-wrap .tabs .memo {
-  background: #a8a8a8 url(/makeshop/newmanager/neoimages/common/ico_memo_off.gif) no-repeat 50% 50%;
+  background: #a8a8a8 url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/ico_memo_off.gif) no-repeat 50% 50%;
 }
 #right-quick .tab-wrap .tabs .memo-on {
-  background: #3d3d3d url(/makeshop/newmanager/neoimages/common/ico_memo_on.gif) no-repeat 50% 50%;
+  background: #3d3d3d url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/ico_memo_on.gif) no-repeat 50% 50%;
 }
 #right-quick .tab-wrap .tabs .menu-on {
-  background: #3d3d3d url(/makeshop/newmanager/neoimages/common/ico_menu_on.gif) no-repeat 50% 50%;
+  background: #3d3d3d url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/ico_menu_on.gif) no-repeat 50% 50%;
 }
 #right-quick .tab-wrap .tabs li a {
   display: block;
@@ -1845,7 +1916,7 @@ body {
   height: 445px;
   display: block;
   border: none;
-  background: url(/makeshop/newmanager/neoimages/common/bg_textarea.gif) repeat 0 0;
+  background: url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/bg_textarea.gif) repeat 0 0;
 }
 #right-quick .memo-wrap .memos a:hover {
   text-decoration: none;
@@ -1868,10 +1939,10 @@ body {
 }
 #right-quick.toggle-on .header-wrap h3 {
   width: 138px;
-  background-image: url(/makeshop/newmanager/neoimages/common/quick_normal.gif);
+  background-image: url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/quick_normal.gif);
 }
 #right-quick.toggle-on .header-wrap .toggle-btn {
-  background-image: url(/makeshop/newmanager/neoimages/common/toggle_on.gif);
+  background-image: url(https://premium264.makeshop.co.kr/newmanager/neoimages/common/toggle_on.gif);
 }
 #right-quick.toggle-on .header-wrap .preferences-btn {
   display: block;
