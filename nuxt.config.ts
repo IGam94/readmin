@@ -1,7 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  ssr: true,
   css: [
     "assets/css/tailwind.css",
     "primevue/resources/themes/lara-light-blue/theme.css",
@@ -12,6 +11,7 @@ export default defineNuxtConfig({
   build: {
     transpile: ["primevue"],
   },
+  ssr: false,
   postcss: {
     plugins: {
       tailwindcss: {},
