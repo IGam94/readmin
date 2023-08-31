@@ -968,11 +968,11 @@ aside {
 .left_now {
   line-height: 39px;
   border-bottom: 1px solid #ddd;
-  background: url("../neoimages/new_category/common/bul_plus.gif") no-repeat 7px 17px #eeeeee;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/common/bul_plus.gif") no-repeat 7px 17px #eeeeee;
 }
 .left_now2 {
   border-bottom: 1px solid #fff;
-  background: url("../neoimages/new_category/common/bul_hyphen.gif") no-repeat 7px 17px #ffffff;
+  background: url("https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/common/bul_hyphen.gif") no-repeat 7px 17px #ffffff;
 }
 
 /* @add 2014-09-18
@@ -1151,7 +1151,7 @@ a.btn-gray-h20 {
   white-space: nowrap;
   border: 1px solid #ccc;
   border-top: 1px solid #e0e0e0;
-  background: url(../neoimages/new_category/common/bg_gray_h20.gif) repeat 0 0;
+  background: url(https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/common/bg_gray_h20.gif) repeat 0 0;
 }
 a.btn-gray-h20 span,
 a.btn-gray-h20 strong {
@@ -1171,7 +1171,7 @@ a.btn-gray-h20-s {
   white-space: nowrap;
   border: 1px solid #ccc;
   border-top: 1px solid #e0e0e0;
-  background: url(../neoimages/new_category/common/bg_gray_h20.gif) repeat 0 0;
+  background: url(https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/common/bg_gray_h20.gif) repeat 0 0;
 }
 a.btn-gray-h20-s span,
 a.btn-gray-h20-s strong {
@@ -1210,7 +1210,7 @@ a.btn-gray-h48 {
   white-space: nowrap;
   border: 1px solid #ccc;
   border-top: 1px solid #e0e0e0;
-  background: url(../neoimages/new_category/common/bg_gray_h48.gif) repeat 0 0;
+  background: url(https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/common/bg_gray_h48.gif) repeat 0 0;
 }
 a.btn-gray-h48 span,
 a.btn-gray-h48 strong {
@@ -1336,7 +1336,7 @@ a.btn-jingray-h20 {
   white-space: nowrap;
   border: 1px solid #ccc;
   border-top: 1px solid #e0e0e0;
-  background: url(../neoimages/new_category/common/btn_jingray_h20.gif) repeat 0 0;
+  background: url(https://premium264.makeshop.co.kr/newmanager/neoimages/new_category/common/btn_jingray_h20.gif) repeat 0 0;
 }
 a.btn-jingray-h20 span,
 a.btn-jingray-h20 strong {
