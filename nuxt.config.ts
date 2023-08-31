@@ -11,7 +11,6 @@ export default defineNuxtConfig({
   build: {
     transpile: ["primevue"],
   },
-  ssr: false,
   postcss: {
     plugins: {
       tailwindcss: {},
