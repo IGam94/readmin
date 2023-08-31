@@ -102,5 +102,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: "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"
           publish_dir: ./dist # 빌드된 파일 경로
