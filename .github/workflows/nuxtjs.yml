@@ -87,6 +87,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -102,5 +105,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: "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"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist # 빌드된 파일 경로
